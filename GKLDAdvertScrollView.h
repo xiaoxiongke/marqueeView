@@ -1,8 +1,5 @@
-//
-//  SGAdvertScrollView.h
 //  GKLD
 //
-//  Created by 向宇涛 on 2021/2/24.
 //  Copyright © 2021 Mac. All rights reserved.
 //
 
