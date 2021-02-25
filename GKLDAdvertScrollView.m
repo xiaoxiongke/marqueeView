@@ -13,7 +13,6 @@
 
 static NSInteger const advertScrollViewMaxSections = 100;
 static NSString *const advertScrollViewNormalCell = @"gkldAdvertScrollViewNormalCell";
-static NSString *const advertScrollViewMoreCell = @"gkldAdvertScrollViewMoreCell";
 
 - (void)awakeFromNib {
     [super awakeFromNib];
