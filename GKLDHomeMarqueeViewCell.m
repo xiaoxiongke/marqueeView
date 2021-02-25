@@ -2,7 +2,6 @@
 //  GKLDHomeMarqueeViewCell.m
 //  GKLD
 //
-//  Created by 向宇涛 on 2021/1/21.
 //  Copyright © 2021 Mac. All rights reserved.
 //
 
