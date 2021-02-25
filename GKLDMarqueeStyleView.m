@@ -2,7 +2,6 @@
 //  GKLDMarqueeStyleView.m
 //  GKLD
 //
-//  Created by 向宇涛 on 2021/1/21.
 //  Copyright © 2021 Mac. All rights reserved.
 //
 
@@ -100,7 +99,6 @@
     if (!_iconView) {
         _iconView = [[UIImageView alloc] init];
         _iconView.contentMode = UIViewContentModeScaleAspectFit;
-        _iconView.image = [UIImage imageNamed:@"ic_ad_welfare"];
     }
     return _iconView;
 }
@@ -110,7 +108,7 @@
         _headerLabel = [[UILabel alloc] init];
         _headerLabel.textColor = UIColorRGB51;
         _headerLabel.font = [UIFont systemFontOfSize:14];
-        _headerLabel.text = @"头条";
+        _headerLabel.text = @"";
     }
     return _headerLabel;
 }
@@ -121,7 +119,6 @@
         _titleLabel.textColor = UIColorRGB51;
         _titleLabel.font = [UIFont systemFontOfSize:14];
         _titleLabel.textAlignment = NSTextAlignmentLeft;
-        _titleLabel.text = @"2021省考《申论+行测+面试》全套8册";
     }
     return _titleLabel;
 }
